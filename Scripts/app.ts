@@ -13,6 +13,7 @@
  * 
  * 
  * ADDED CHANGES BY Javid Niftaliyev, ID:300742916
+ * AZURE: http://comp125-s2016-lesson12-master-edit.azurewebsites.net/
  * 
  */
 
