@@ -10,6 +10,7 @@
  * 
  * 
  * ADDED CHANGES BY Javid Niftaliyev, ID:300742916
+ * GITHUB REPO: https://github.com/Web1017/COMP125-S2016-Lesson12-master-Edit
  * AZURE: http://comp125-s2016-lesson12-master-edit.azurewebsites.net/
  * @description This file is the main javascript file for the web site
  */
